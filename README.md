@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Bem-vindo ao meu universo de código! 
+# 👋 Bem-vindo ao meu universo de código
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Software+Full-Stack;Desenvolvedor+Freelancer;Criador+de+Soluções+Digitais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=2E97F7&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software+Full-Stack;Desenvolvedor+Freelancer;Criador+de+Soluções+Digitais" />
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ## 🚀 Sobre Mim
 
-**Olá!  Sou Abimael de Menezes Pedro** - Engenheiro de Software Full-Stack apaixonado por transformar ideias em soluções digitais inovadoras. 
+Olá! Sou **Abimael de Menezes Pedro**, **Engenheiro de Software Full-Stack**, apaixonado por tecnologia e por transformar ideias em **soluções digitais eficientes, escaláveis e bem projetadas**.
 
-🎯 **Atualmente:** Desenvolvedor Freelancer criando experiências web únicas  
-💼 **Foco:** Desenvolvimento Full-Stack, Design de Interfaces e Otimização de Sistemas  
-🌐 **Portfolio:** [abimaeldev.eng.br](https://www.abimaeldev.eng.br/)  
-💡 **Missão:** Criar soluções digitais que combinam funcionalidade, estética e performance
+- 🎯 **Atuação:** Desenvolvedor Freelancer  
+- 💼 **Foco:** Desenvolvimento Full-Stack, UI/UX e Otimização de Sistemas  
+- 🌐 **Portfólio:** https://www.abimaeldev.eng.br  
+- 💡 **Missão:** Criar produtos digitais que unam performance, estética e usabilidade
 
 ---
 
@@ -23,18 +23,32 @@
 
 <div align="center">
 
-### 🎨 Frontend & Design
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
+---
 
-### ⚙️ Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🛠️ Ferramentas & Outras Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+### 🧠 Outras Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+---
+
+### 🛠️ Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
 
@@ -42,52 +56,52 @@
 
 ## 🎯 Projetos em Destaque
 
-### 🛒 **Loja Virtual Completa**
-Sistema de e-commerce moderno com carrinho inteligente, wishlist, filtros avançados e checkout simulado.
+### 🛒 Loja Virtual Completa
+E-commerce moderno com carrinho inteligente, filtros avançados, wishlist e checkout simulado.
 
-### 📊 **Dashboard Empresarial**
-Painel de controle com gráficos interativos, análise de dados em tempo real e histórico de atividades. 
+### 📊 Dashboard Empresarial
+Painel administrativo com gráficos interativos, métricas em tempo real e histórico de atividades.
 
-### ✅ **Gerenciador de Tarefas Profissional**
-Aplicação para organização e produtividade com interface intuitiva e recursos avançados.
+### ✅ Gerenciador de Tarefas Profissional
+Sistema focado em produtividade, organização e experiência do usuário.
 
-### 📚 **Biblioteca Central - Reserva de Salas**
-Sistema acadêmico para agendamento de salas de estudo com gestão eficiente. 
+### 📚 Biblioteca Central – Reserva de Salas
+Plataforma acadêmica para agendamento e gestão de salas de estudo.
 
-### 💜 **EmpreendeEla - Plataforma Social**
-Projeto de inclusão digital voltado para mulheres empreendedoras, com vitrine digital, capacitação e dashboard.
+### 💜 EmpreendeEla
+Projeto social voltado à inclusão digital de mulheres empreendedoras, com vitrine digital e capacitação.
 
-> 🔗 **Veja todos os projetos:** [abimaeldev.eng.br](https://www.abimaeldev.eng.br/)
+🔗 **Mais projetos:** https://www.abimaeldev.eng.br
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimadevfull&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E97F7&icon_color=2E97F7&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimadevfull&layout=compact&langs_count=8&theme=blue-green&hide_border=true&bg_color=0d1117&title_color=2E97F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimadevfull&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E97F7&icon_color=2E97F7&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimadevfull&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=2E97F7&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Atividade de Contribuição
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bimadevfull&theme=react-dark&hide_border=true&area=true&color=2E97F7&point=1E90FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bimadevfull&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Conquistas
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/? username=bimadevfull&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bimadevfull&theme=algolia&no-frame=true&row=1)
 
 </div>
 
@@ -97,55 +111,21 @@ Projeto de inclusão digital voltado para mulheres empreendedoras, com vitrine d
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2E97F7?style=for-the-badge&logoColor=white)](https://www.abimaeldev.eng. br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimadevfull/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bima.script/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bimadevfull)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E97F7?style=for-the-badge)](https://www.abimaeldev.eng.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bimadevfull/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/bima.script/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bimadevfull)
 
 </div>
 
 ---
 
-## 💼 Serviços Oferecidos
+## 💼 Serviços
 
-```
-✨ Desenvolvimento Web Full-Stack
-🎨 Design de Interfaces Modernas
-📱 Sistemas Responsivos
-🔧 Manutenção e Otimização
-🚀 Consultoria em Tecnologia
-💡 Soluções Personalizadas
-```
-
----
-
-## 📫 Como me encontrar
-
-```javascript
-const abimael = {
-    portfolio: "https://www.abimaeldev.eng.br/",
-    linkedin: "https://www.linkedin.com/in/bimadevfull/",
-    instagram: "@bima.script",
-    disponivel: true,
-    freelancer: true,
-    paixao: ["Código Limpo", "Inovação", "Aprendizado Contínuo"]
-};
-```
-
----
-
-<div align="center">
-
-### 💙 "Transformando ideias em código, código em soluções!"
-
-![Profile Views](https://komarev.com/ghpvc/?username=bimadevfull&color=2E97F7&style=for-the-badge)
-
-⭐ **Se você curtiu meus projetos, deixe uma estrela nos repositórios!** ⭐
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E97F7&height=100&section=footer"/>
-</div>
+```text
+✔ Desenvolvimento Web Full-Stack
+✔ Interfaces Modernas (UI/UX)
+✔ Sistemas Responsivos
+✔ Manutenção e Otimização
+✔ Consultoria em Tecnologia
+✔ Soluções Sob Medida
