@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- BIMA TECH Logo -->
+<img src="/public/images/bima-tech-logo.png" alt="BIMA TECH Logo" width="300"/>
+
+<br><br>
+
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abimael%20de%20Menezes%20Pedro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
@@ -11,13 +16,13 @@
   <a href="https://www.abimaeldev.eng.br" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfólio-0A66C2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/abimael-de-menezes-pedro-1b8a60234/" target="_blank">
+  <a href="https://www.linkedin.com/in/bimadevfull/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/bima.dev/" target="_blank">
+  <a href="https://www.instagram.com/bima.scipt/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:bima.devfull@gmail.com">
+  <a href="mailto:abimaeldevfull.stack@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -273,7 +278,7 @@ Fundada por **Abimael aos 18 anos**, a BIMA TECH Consultoria nasceu da paixão p
 <p><b>13+ concluídos</b><br>com excelência</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/SATISFAÇÃO-100%25-00FF88?style=for-the-badge&logo=trustpilot&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/SATISFA%C3%87%C3%83O-100%25-00FF88?style=for-the-badge&logo=trustpilot&logoColor=white" /><br>
 <h3>⭐ Satisfação</h3>
 <p><b>100% dos clientes</b><br>satisfeitos</p>
 </td>
@@ -600,28 +605,22 @@ Site **portfólio profissional** moderno, responsivo e otimizado para apresenta�
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://www.abimaeldev.eng.br" target="_blank">
 <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-0A66C2?style=for-the-badge" height="40"/><br>
 <b>Visite meu site</b>
 </a>
 </td>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/abimael-de-menezes-pedro-1b8a60234/" target="_blank">
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/bimadevfull/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/><br>
 <b>Conecte-se</b>
 </a>
 </td>
-<td align="center" width="25%">
-<a href="https://www.instagram.com/bima.dev/" target="_blank">
+<td align="center" width="33%">
+<a href="https://www.instagram.com/bima.scipt/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/><br>
 <b>Siga-me</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:bima.devfull@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/><br>
-<b>Envie um email</b>
 </a>
 </td>
 </tr>
@@ -632,12 +631,10 @@ Site **portfólio profissional** moderno, responsivo e otimizado para apresenta�
 ### 📬 Informações de Contato
 
 ```yaml
-Email: bima.devfull@gmail.com
-WhatsApp: +55 (15) 98811-9244
+Email: abimaeldevfull.stack@gmail.com
+Instagram: @bima.scipt
 Portfólio: abimaeldev.eng.br
-LinkedIn: /abimael-de-menezes-pedro
-Instagram: @bima.dev
-Localização: Brasil 🇧🇷
+LinkedIn: /bimadevfull
 ```
 
 <br>
