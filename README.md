@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- BIMA TECH Logo com animação -->
-<img src="/public/images/bima-tech-logo.png" alt="BIMA TECH Logo" width="320"/>
-
 <br><br>
 
 <!-- Header Banner Animado -->
